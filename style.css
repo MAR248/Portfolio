@@ -1,0 +1,45 @@
+@media only screen{
+    .box {
+             display: flex;
+             flex-direction: row-reverse;
+           }
+       
+   }
+   *{
+       text-align: center;
+   }
+   body{
+       background-color: beige;
+       
+   }
+   #navbar{
+       text-align: right;
+       background-color: crimson;
+   }
+   #navbar a{
+       font-weight:bolder ;
+       font-size: 30px;
+       
+   }
+   h1{
+       color:crimson;
+       font-size: 60px;
+   
+   }
+   h2{
+       font-size: 40px;
+   }
+   h3{
+       font-size: 35px;
+   
+   }
+   p{
+       font-size: 30px;
+   }
+   a{
+       color:black;
+       font-size: 30px;
+       text-decoration: none;
+       font-family: 'Poppins', sans-serif;
+   }
+   
